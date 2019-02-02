@@ -25,7 +25,9 @@ app.use(flash());
 //Setting Up The DataBase
 
 //seedDB();
-mongoose.connect("mongodb://localhost/yelp_camp");
+mongoose.connect("mongodb://mobad:bad*mm.ah20@ds119445.mlab.com:19445/myyelpcamp");
+
+//mongoose.connect("mongodb://localhost/yelp_camp");
 
 
 //PASSPORT CONFIGURATION
